@@ -1,0 +1,4 @@
+{
+  "ignorePaths": ["node_modules/**", "coverage/**", "dist/**", "yarn.lock"],
+  "words": ["grafana", "kubernetes"]
+}
